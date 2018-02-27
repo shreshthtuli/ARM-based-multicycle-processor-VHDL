@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Feb 23 13:02:01 2018
+# Process ID: 11236
+# Current directory: C:/Users/Shreshth Tuli/Desktop/COL216 Labs/ARM CPU based Computer/ARM CPU based Computer.runs/synth_1
+# Command line: vivado.exe -log CPU_datapath.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CPU_datapath.tcl
+# Log file: C:/Users/Shreshth Tuli/Desktop/COL216 Labs/ARM CPU based Computer/ARM CPU based Computer.runs/synth_1/CPU_datapath.vds
+# Journal file: C:/Users/Shreshth Tuli/Desktop/COL216 Labs/ARM CPU based Computer/ARM CPU based Computer.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source CPU_datapath.tcl -notrace
